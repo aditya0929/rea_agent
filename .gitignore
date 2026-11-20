@@ -1,0 +1,14 @@
+# Dependencies and builds
+node_modules/
+dist/
+
+# Portable Node binaries (download separately, see RUNNING.md)
+.tools/
+
+# Local only: Farmonaut's copied front-end and analysis captures (not ours to publish)
+sat-local/
+analysis/
+
+# Debug and third-party screenshots
+fieldwise-shots/dbg*.png
+fieldwise-shots/80-reskin.png
